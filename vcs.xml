@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.jituonline.com:8000" />
           <option name="userName" value="fsxx112233" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.acca.com.cn:7990" />
+          <option name="userName" value="li_zheng" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
