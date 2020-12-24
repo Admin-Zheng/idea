@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.jituonline.com:8000" />
           <option name="userName" value="fsxx112233" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="1106687235@qq.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
